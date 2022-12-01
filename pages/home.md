@@ -14,6 +14,8 @@ permalink: /
 \
 **Electroencephalography (EEG)** is important in the analysis of brain activity and brain disease, and is widely used for brain-computer interface (BCI) applications, sleep scoring, emotion recognition and seizure detection. Many signal processing and machine learning methods have uncovered patterns and information from these complex signal. Deep learning techniques have managed to achieve close-to-human accuracy in many classification tasks, and have shown promise to discover new knowledge from EEG signals.
 
+Unlike in the field of audio and speech processing, adoption of automated EEG processing systems is rather slow. EEG datasets are expensive to acquire and generalizing across datasets is hard due to differences in acquisition setups. To overcome these issues, we need **adaptable AI systems** that can learn from small amounts of data. Moreover, in high-stakes clinical applications, **trust in AI systems** through interpretations and uncertainty estimation is crucial. In this workshop, we aim to focus on ongoing research aimed at **addressing the challenges that stand between automated EEG processing methods and clinical practice**. 
+
 Within the scope of the challenge, participants will be presented with two **tasks** focused on training ML models to accurately detect seizure events in data obtained from the SD wearable device.
 
 More information about the [tasks]({{ '/tasks/' | relative_url }}), [datasets]({{ '/dataset/' | relative_url }}) and [regulations]({{ '/regulations/' | relative_url }}) can be found in this website.
