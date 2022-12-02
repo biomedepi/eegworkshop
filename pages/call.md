@@ -1,6 +1,5 @@
 ---
 title: Call for Papers
-description: Rules, regulations and data use agreement
 background: /assets/theme/images/bckg.png
 permalink: /call/
 ---
