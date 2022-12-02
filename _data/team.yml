@@ -8,15 +8,30 @@
     Department of Development and Regeneration, KU Leuven, Leuven, Belgium
   email: maarten.devos@kuleuven.be
 
-- name: Christos Chazachristos
-  role: Postdoctoral researcher
+- name: Elisabeth Heremans
+  role: PhD candidate
   image: assets/theme/images/christos.png
   description: >
     Department of Electrical Engineering, STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics, KU Leuven, Leuven, Belgium
-  email: cchatzic@esat.kuleuven.be
-- name: Miguel Bhagubai
+  email: elisabeth.heremans@kuleuven.be
+
+- name: Nick Seeuws
   role: PhD candidate
   image: assets/theme/images/miguel.png
   description: >
     Department of Electrical Engineering, STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics, KU Leuven, Leuven, Belgium
-  email: miguel.bhagubai@esat.kuleuven.be
+  email: nick.seeuws@kuleuven.be
+
+- name: Huy Phan
+  role: Professor
+  image: assets/theme/images/maarten.png
+  description: >
+    School of Electronic Engineering and Computer Science, Queen Mary University of London, London, United Kingdom of Great Britain and Northern Ireland
+  email: h.phan@qmul.ac.uk
+
+- name: Alexandre Gramfort
+  role: Professor
+  image: assets/theme/images/maarten.png
+  description: >
+    INRIA, Université Paris-Saclay, Paris, France
+  email: alexandre.gramfort@inria.fr
