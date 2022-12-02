@@ -24,7 +24,7 @@ Some leaders in the field of EEG processing will present their ongoing work in e
 
 ### **<span style="color:#2B547E">Paper presentations</span>**
 
-A regular paper presentation session on EEG signal processing will be held. If you consider submitting a paper to this workshop, please take into account the scope, and check out the deadlines and rules in calls.
+A regular paper presentation session on EEG signal processing will be held. If you consider submitting a paper to this workshop, please take into account the [scope]({{ '/scope/' | relative_url }}), and check out the deadlines and rules in [call for papers]({{ '/call/' | relative_url }}).
 
 
 
