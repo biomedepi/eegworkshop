@@ -18,7 +18,7 @@ Unlike in the field of audio and speech processing, adoption of automated EEG pr
 
 
 
-More information about the [scope]({{ '/tasks/' | relative_url }}), [call for papers]({{ '/dataset/' | relative_url }}) and [organizers]({{ '/regulations/' | relative_url }}) can be found in this website.
+More information about the [scope]({{ '/regulations/' | relative_url }}), [call for papers]({{ '/dataset/' | relative_url }}) and [organizers]({{ '/tasks/' | relative_url }}) can be found in this website.
 
 \
 ![Scheme]({{ '/assets/theme/images/scheme.png' | relative_url }})
