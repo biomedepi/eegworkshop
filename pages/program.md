@@ -33,4 +33,5 @@ A regular paper presentation session on EEG signal processing will be held. If y
 ### **<span style="color:#2B547E">Panel debate</span>**
 
 *"What are useful EEG representations, and what can EEG signal processing look like in the AI era?"*
+
 The panel discussion is aimed at showing one of the important future directions of EEG processing, namely learning task-agnostic EEG presentations. We will ask our panel whether latest advances in AI (e.g. self-supervised learning) can help to achieve this goal. Furthermore, we will initiate a discussion on whether these unified representations can be used for knowledge discovery, by unraveling new information from this complex signal.
