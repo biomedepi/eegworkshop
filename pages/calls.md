@@ -1,15 +1,16 @@
 ---
-title: Terms and Conditions
+title: Call for Papers
 description: Rules, regulations and data use agreement
 background: /assets/theme/images/bckg.png
-permalink: /termsandconditions/
+permalink: /call/
 ---
 
 ## **<span style="color:#2B547E">Submit a paper to the EEG workshop of ICASSP 2023</span>**
 
 Papers on EEG processing can be submitted to the workshop through the ICASSP-2023 paper management system (Microsoft CMT): [Paper Submission](https://2023.ieeeicassp.org/paper-submission/).
 
-Submitted workshop papers should abide by the ICASSP-2023 rules for paper style, format, and length ([Paper Submission Guidelines](https://2023.ieeeicassp.org/paper-submission-guidelines/)). The Satellite Workshops will be held with in-person attendance. Accordingly, each accepted workshop paper must be presented in-person by one of the authors. 
+**Rules:** 
+Submitted papers should be within the [scope]({{ '/scope/' | relative_url }}) of the workshop. Submitted workshop papers should abide by the ICASSP-2023 rules for paper style, format, and length ([Paper Submission Guidelines](https://2023.ieeeicassp.org/paper-submission-guidelines/)). The Satellite Workshops will be held with in-person attendance. Accordingly, each accepted workshop paper must be presented in-person by one of the authors. 
 
 ## **<span style="color:#2B547E">Important dates</span>**
 
