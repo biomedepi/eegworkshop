@@ -1,19 +1,21 @@
 ---
-title: Tasks
+title: Program
 background: /assets/theme/images/bckg.png
-permalink: /tasks/
+permalink: /program/
 ---
 
-### **<span style="color:#2B547E">Task 1 - Seizure detection</span>**
+### **<span style="color:#2B547E">Invited talks</span>**
 \
-The first task of this challenge involves developing a ML model for detecting seizures in the wearable SD data. As training set the contestants will be able to use the full SeizeIT1 dataset (vEEG, bhe-EEG, ECG), while the test set will contain data captured with the wearable SD device (bhe-EEG and ECG, no vEEG). The contestants are allowed, but not obliged, to use (in a transfer learning-scheme) the information of the full scalp EEG (vEEG) in the training set. As a baseline method, for comparison purposes, the approach presented in Vandecasteele et. al [1] can be used.
-
-![alt text]({{ '/assets/theme/images/task1.png' | relative_url }})
-A pretrained model (either in Python or in Matlab) must be submitted. Additionally, the routines used for pre- and post-processing should be included. The models must provide a vector of zeros (non-seizure) and ones (seizure) as an output with length equal to the number of seconds of a recording. The framework should receive as input the wearable EEG data from the SD device (2-channel EEG time series).
+- Samaneh Nasiri – Harvard University, Boston, United States of America: 
+    Generalizability of machine learning models for electrophysiology
+- Michel JAM van Putten – University of Twente, Enschede, The Netherlands
+    Deep Learning for detection of epileptiform discharges in human EEG recordings
+- Alexandre Gramfort – Inria, Paris, France / Hubert Banville – InteraXon, Toronto, Canada: 
+    Self-supervised machine learning for wearable EEG monitoring
 
 &nbsp;  
 
-### **<span style="color:#2B547E">Task 2 - Data centric seizure detection</span>**
+### **<span style="color:#2B547E">Paper presentations</span>**
 \
 ![alt text]({{ '/assets/theme/images/task2.png' | relative_url }}){: .rounded .float-end}
 Data is the main ingredient for developing automated classifiers. Most researchers have focused on developing state-of -the-art AI architectures in order to achieve better classification performance in many diverse tasks. Recently, the concept of ‘data-centric AI’ has risen as a promising option for achieving higher and better performances in hard classification problems.
@@ -31,9 +33,7 @@ As a baseline, the metrics were computed with a model trained using all bhe-EEG 
 
 &nbsp;  
 
-#### References
+### **<span style="color:#2B547E">Panel debate</span>**
 
-[1] K. Vandecasteele et al., “Visual seizure annotation and automated seizure detection using behind-the-ear elec- troencephalographic channels,” Epilepsia, vol. 61, no. 4, pp. 766–775, 2020.
+What are useful EEG representations, and what can EEG signal processing look like in the AI era?![image](https://user-images.githubusercontent.com/53832320/205282151-a4518925-2fb1-426b-a44d-dcd98fe69bd3.png)
 
-[2] S. Roy et al., “Chrononet: A deep recurrent neural net- work for abnormal eeg identification,” in Artificial Intel-
-ligence in Medicine. 2019, pp. 47–56.
