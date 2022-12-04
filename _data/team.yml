@@ -7,7 +7,7 @@
     Department of Electrical Engineering, STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics, KU Leuven, Leuven, Belgium; 
     Department of Development and Regeneration, KU Leuven, Leuven, Belgium
     
-    > Maarten De Vos's academic work focuses on AI for healthcare monitoring and daily-life biomedical monitoring. 
+    > Maarten De Vos has a joint appointment as Research Professor in the Departments of Engineering and Medicine at KU Leuven. His academic work focuses on AI for healthcare monitoring and daily-life biomedical monitoring. 
     He is renowned for deriving personalized biosignatures of patient health and incorporating smart analytics into wearable sensors. 
 
   email: maarten.devos@kuleuven.be
@@ -17,6 +17,9 @@
   image: assets/theme/images/elisabeth_pic.png
   description: >
     Department of Electrical Engineering, STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics, KU Leuven, Leuven, Belgium
+    
+    > Elisabeth Heremans is a PhD student at KU Leuven under the supervision of Maarten De Vos. 
+    She was awarded a competitive strategic basic research grant by the Research Foundation – Flanders for her PhD research on automated sleep analysis from EEG signals recorded with wearable monitoring devices
   email: elisabeth.heremans@kuleuven.be
 
 - name: Nick Seeuws
@@ -24,6 +27,10 @@
   image: assets/theme/images/nick_pick.png
   description: >
     Department of Electrical Engineering, STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics, KU Leuven, Leuven, Belgium
+    
+    > Nick Seeuws is pursuing a PhD degree in electrical engineering at KU Leuven under the supervision of Alexander Bertrand and Maarten De Vos. 
+    His research interests are machine learning, signal processing, and biomedical engineering.
+
   email: nick.seeuws@kuleuven.be
 
 - name: Huy Phan
@@ -32,7 +39,7 @@
   description: >
     School of Electronic Engineering and Computer Science, Queen Mary University of London, London, United Kingdom of Great Britain and Northern Ireland
     
-    His research interests include machine learning and signal processing for audio and biosignal analysis. He has (co-)authored more than 20 papers on EEG signal processing, particularly EEG-based automatic sleep staging.
+    > Huy Phan is Lecturer in Artificial Intelligence at Queen Mary University of London, and Turing Fellow at the Alan Turing Institute. His research interests include machine learning and signal processing for audio and biosignal analysis. He has (co-)authored more than 20 papers on EEG signal processing, particularly EEG-based automatic sleep staging.
   email: h.phan@qmul.ac.uk
 
 - name: Alexandre Gramfort
@@ -40,7 +47,7 @@
   image: assets/theme/images/alexandre_pic.png
   description: >
     INRIA, Université Paris-Saclay, Paris, France
-    \
-    Alexandre Gramfort is currently senior research scientist (DR, HDR) at Inria, leading the MIND Team. 
+    
+    > Alexandre Gramfort is currently senior research scientist (DR, HDR) at Inria, leading the MIND Team. 
     His work is on machine learning, signal processing, optimization, scientific computing and software engineering, applied to brain imaging (MEG, EEG, fMRI).
   email: alexandre.gramfort@inria.fr
