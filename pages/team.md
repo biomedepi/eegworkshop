@@ -1,7 +1,7 @@
 ---
 layout: team
 title: Team
-description: Challenge Organisers
+description: Workshop Organisers
 background: /assets/theme/images/bckg.png
 permalink: /team/
 ---
