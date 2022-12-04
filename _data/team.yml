@@ -40,7 +40,7 @@
   image: assets/theme/images/alexandre_pic.png
   description: >
     INRIA, Université Paris-Saclay, Paris, France
-    
+    \
     Alexandre Gramfort is currently senior research scientist (DR, HDR) at Inria, leading the MIND Team. 
     His work is on machine learning, signal processing, optimization, scientific computing and software engineering, applied to brain imaging (MEG, EEG, fMRI).
   email: alexandre.gramfort@inria.fr
