@@ -6,6 +6,10 @@
   description: >
     Department of Electrical Engineering, STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics, KU Leuven, Leuven, Belgium; 
     Department of Development and Regeneration, KU Leuven, Leuven, Belgium
+    
+    Maarten De Vos's academic work focuses on AI for healthcare monitoring and daily-life biomedical monitoring. 
+    He is renowned for deriving personalized biosignatures of patient health and incorporating smart analytics into wearable sensors. 
+
   email: maarten.devos@kuleuven.be
 
 - name: Elisabeth Heremans
@@ -27,6 +31,8 @@
   image: assets/theme/images/huy_pick.png
   description: >
     School of Electronic Engineering and Computer Science, Queen Mary University of London, London, United Kingdom of Great Britain and Northern Ireland
+    
+    His research interests include machine learning and signal processing for audio and biosignal analysis. He has (co-)authored more than 20 papers on EEG signal processing, particularly EEG-based automatic sleep staging.
   email: h.phan@qmul.ac.uk
 
 - name: Alexandre Gramfort
