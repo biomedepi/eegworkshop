@@ -24,7 +24,7 @@
 
 - name: Nick Seeuws
   role: PhD candidate
-  image: assets/theme/images/nick_pick.png
+  image: assets/theme/images/nick_pic.png
   description: >
     Department of Electrical Engineering, STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics, KU Leuven, Leuven, Belgium
     
@@ -35,7 +35,7 @@
 
 - name: Huy Phan
   role: Professor
-  image: assets/theme/images/huy_pick.png
+  image: assets/theme/images/huy_pic.png
   description: >
     School of Electronic Engineering and Computer Science, Queen Mary University of London, London, United Kingdom of Great Britain and Northern Ireland
     
