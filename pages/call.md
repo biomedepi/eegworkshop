@@ -13,7 +13,7 @@ Submitted papers should be within the [scope]({{ '/scope/' | relative_url }}) of
 
 ## **<span style="color:#2B547E">Important dates</span>**
 
-Workshop Paper Submission Deadline:  15 February 2023
+Workshop Paper Submission Deadline:  24 February 2023
 
 Workshop Paper Acceptance Notification:  14 April 2023
 
