@@ -26,7 +26,7 @@ Some leaders in the field of EEG processing will present their ongoing work in e
 
 ### **<span style="color:#2B547E">Paper presentations</span>**
 
-A regular paper presentation session on EEG signal processing will be held. We are welcoming contributions, which should be submitted by February 15 via the main conference platform, and will be reviewed according to the conference standards ([scope]({{ '/scope/' | relative_url }}) and [call for papers]({{ '/call/' | relative_url }}) for more information). Upon acceptance, papers will be given the opportunity to present, and will be published at the IEEE Xplore Digital Library.
+A regular paper presentation session on EEG signal processing will be held. We are welcoming contributions, which should be submitted by February 24 via the main conference platform, and will be reviewed according to the conference standards ([scope]({{ '/scope/' | relative_url }}) and [call for papers]({{ '/call/' | relative_url }}) for more information). Upon acceptance, papers will be given the opportunity to present, and will be published at the IEEE Xplore Digital Library.
 
 
 &nbsp;  
