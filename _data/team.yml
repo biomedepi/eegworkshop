@@ -43,11 +43,10 @@
   email: h.phan@qmul.ac.uk
 
 - name: Alexandre Gramfort
-  role: Professor
+  role: Senior Research Scientist
   image: assets/theme/images/alexandre_pic.png
   description: >
-    INRIA, Université Paris-Saclay, Paris, France
+    Meta Reality Labs
     
-    > Alexandre Gramfort is currently senior research scientist (DR, HDR) at Inria, leading the MIND Team. 
-    His work is on machine learning, signal processing, optimization, scientific computing and software engineering, applied to brain imaging (MEG, EEG, fMRI).
-  email: alexandre.gramfort@inria.fr
+    > Alexandre Gramfort is currently research scientist at Meta Reality Labs. He was previously senior research scientist (DR, HDR) at Inria Université Paris-Saclay, leading the MIND Team. His work is on machine learning, signal processing, optimization, scientific computing and software engineering, applied to biosignals and in particular brain imaging data (MEG, EEG, fMRI).
+  email: agramfort@meta.com

@@ -18,7 +18,7 @@ Some leaders in the field of EEG processing will present their ongoing work in e
 - Michel JAM van Putten – University of Twente, Enschede, The Netherlands
 
     *Deep Learning for detection of epileptiform discharges in human EEG recordings*
-- Alexandre Gramfort – Inria, Paris, France / Hubert Banville – InteraXon, Toronto, Canada
+- Alexandre Gramfort – Meta Reality Labs, Paris, France / Hubert Banville – InteraXon, Toronto, Canada
 
     *Self-supervised machine learning for wearable EEG monitoring*
 
