@@ -6,7 +6,7 @@ permalink: /program/
 
 &nbsp;  
 
-**Date: to be confirmed. June 4th, 5th, or 10th 2023.**
+**Date: June 5th (PM).**
 
 ### **<span style="color:#2B547E">Invited talks</span>**
 
