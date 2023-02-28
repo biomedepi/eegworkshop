@@ -10,15 +10,15 @@ permalink: /program/
 
 ### **<span style="color:#2B547E">Invited talks</span>**
 
-Some leaders in the field of EEG processing will present their ongoing work in emerging fields EEG processing.
+Some leaders in the field of EEG processing will present their ongoing work in emerging fields in EEG processing.
 
-- Samaneh Nasiri – Harvard University, Boston, United States of America 
+- Dr. Samaneh Nasiri – Harvard University, Boston, United States of America 
 
     *Generalizability of machine learning models for electrophysiology*
-- Michel JAM van Putten – University of Twente, Enschede, The Netherlands
+- Dr. Catarina da Silva Lourenço – University of Twente, Enschede, The Netherlands
 
     *Deep Learning for detection of epileptiform discharges in human EEG recordings*
-- Alexandre Gramfort – Meta Reality Labs, Paris, France / Hubert Banville – InteraXon, Toronto, Canada
+- Prof. Alexandre Gramfort – Meta Reality Labs, Paris, France / Dr. Hubert Banville – InteraXon, Toronto, Canada
 
     *Self-supervised machine learning for wearable EEG monitoring*
 
