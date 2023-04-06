@@ -18,7 +18,7 @@ Some leaders in the field of EEG processing will present their ongoing work in e
 - Dr. Catarina da Silva Lourenço – University of Twente, Enschede, The Netherlands
 
     *Deep Learning for detection of epileptiform discharges in human EEG recordings*
-- Prof. Alexandre Gramfort – Meta Reality Labs, Paris, France / Dr. Hubert Banville – InteraXon, Toronto, Canada
+- Prof. Alexandre Gramfort – Meta Reality Labs, Paris, France
 
     *Self-supervised machine learning for wearable EEG monitoring*
 
