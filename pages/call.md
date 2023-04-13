@@ -15,6 +15,6 @@ Submitted papers should be within the [scope]({{ '/scope/' | relative_url }}) of
 
 Workshop Paper Submission Deadline:  24 February 2023
 
-Workshop Paper Acceptance Notification:  14 April 2023
+Workshop Paper Acceptance Notification:  18 April 2023
 
 Workshop Camera Ready Paper Deadline:  28 April 2023
