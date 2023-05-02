@@ -6,10 +6,10 @@ permalink: /program/
 
 &nbsp;  
 
-**Date: June 5th (PM).**
-**Time schedule:
-2:00 PM - 3:40 PM: Invited talks
-4:00 PM - 5:30 PM: Paper presentations
+**Date: June 5th (PM). <br />
+Time schedule <br />
+   2:00 PM - 3:40 PM: Invited talks
+   4:00 PM - 5:30 PM: Paper presentations
 **
 
 ### **<span style="color:#2B547E">Invited talks</span>**
