@@ -34,12 +34,12 @@
   email: nick.seeuws@kuleuven.be
 
 - name: Huy Phan
-  role: Professor
+  role: Senior Research Scientist
   image: assets/theme/images/huy_pic.png
   description: >
-    School of Electronic Engineering and Computer Science, Queen Mary University of London, London, United Kingdom of Great Britain and Northern Ireland
+    Amazon Alexa, Seattle, United States
     
-    > Huy Phan is Lecturer in Artificial Intelligence at Queen Mary University of London, and Turing Fellow at the Alan Turing Institute. His research interests include machine learning and signal processing for audio and biosignal analysis. He has (co-)authored more than 20 papers on EEG signal processing, particularly EEG-based automatic sleep staging.
+    > Huy Phan is a Senior Research Scientist at Amazon Alexa since January 2023. Before this, he was a Lecturer in Artificial Intelligence at Queen Mary University of London, and Turing Fellow at the Alan Turing Institute. His research interests include machine learning and signal processing for audio and biosignal analysis. He has (co-)authored more than 20 papers on EEG signal processing, particularly EEG-based automatic sleep staging.
   email: h.phan@qmul.ac.uk
 
 - name: Alexandre Gramfort
