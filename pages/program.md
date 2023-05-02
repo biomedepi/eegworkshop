@@ -34,18 +34,25 @@ Some leaders in the field of EEG processing will present their ongoing work in e
 
 The following papers will be presented:
 - *Decoding Auditory Attention from EEG Data using Cepstral Analysis*
+   
    Emina Alickovic (Eriksholm Research Centre); Carlos Fransico Mendoza (Eriksholm Research Centre); Andrew Segar (Eriksholm Research Centre); Maria Sandsten (Lund University); Martin A Skoglund (Linköping University)*	
 - *EEG Source Estimation Using Deep Prior without a Subject's Individual Lead Field*
+   
    Naoki Hojo (Kobe University)*; Hajime Yano (Kobe University); Ryoichi Takashima (Kobe University); Tetsuya Takiguchi (Kobe University); Seiji Nakagawa (Chiba University)
 - *A new Multiway MFDM based technique for EEG Source Localisation and Interpretation*
+   
    Anchal yadav (Indian Institute of Technology)*; Monika Agrawal (IIT); S D Joshi (Indian Institute of Technology Delhi)
 - *Topological analysis of low dimensional phase space trajectories of high dimensional EEG signals for classification of interictal epileptiform discharges*
+   
    Annika Stiehl (University of Applied Sciences Ansbach)*; Martina Flammer (Julius-Maximilians-Universität Würzburg); Fabienne Anselstetter (BESA GmbH); Nicole Ille (BESA GmbH); Harald Bornfleth (BESA GmbH); Stefan Geißelsöder (University of Applied Sciences Ansbach); Christian Uhl (University of Applied Sciences)
 - *Enabling Large-Scale Probabilistic Seizure Detection with a Tensor-Network Kalman Filter for LS-SVM*
+   
    Seline J de Rooij (Delft University of Technology)*; Kim Batselier (Delft University of Technology ); Borbala Hunyadi (TUDelft)
 - *Novel Approach Explains Spatio-Spectral Interactions in Raw Electroencephalogram Deep Learning Classifiers*
+   
    Charles A Ellis (TReNDS)*; Abhinav Sattiraju (TReNDS); Robyn Miller (TReNDS); Vince Calhoun (TReNDS)
 - *Hypercomplex Multimodal Emotion Recognition from EEG and Peripheral Physiological Signals*
+   
    Eleonora Lopez (Sapienza University of Rome)*; Eleonora Chiarantano (Sapienza University of Rome); Eleonora Grassucci (Sapienza University of Rome); Danilo Comminiello (Sapienza University of Rome)
 
 
