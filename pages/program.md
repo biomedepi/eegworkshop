@@ -13,7 +13,7 @@ permalink: /program/
 Some leaders in the field of EEG processing will present their ongoing work in emerging fields in EEG processing.
 - Elisabeth Heremans – KU Leuven, Leuven, Belgium, Dr. Huy Phan – Amazon Alexa, Seattle, United States of America
 
-*Automatic sleep staging: recent development, challenges and future directions*
+    *Automatic sleep staging: recent development, challenges and future directions*
 - Prof. Alexandre Gramfort – Meta Reality Labs, Paris, France
 
     *Self-supervised machine learning for wearable EEG monitoring*
