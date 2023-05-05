@@ -7,7 +7,7 @@ permalink: /program/
 &nbsp;  
 
 **Date: June 5th** <br />
-**Time schedule** <br />
+Time schedule <br />
    2:00 PM - 3:40 PM: Invited talks <br />
    4:00 PM - 5:30 PM: Paper presentations
 
