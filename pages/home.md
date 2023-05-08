@@ -2,14 +2,16 @@
 layout: home
 title: EEG workshop
 description: ICASSP 2023 Satellite Workshop
-Athena Hall, Rhodes Palace Hotel
-Rhodes Island, Greece
 background: /assets/theme/images/header.png
 permalink: /
 ---
 
 
 ## **<span style="color:#2B547E">EEG signal processing for the future: integrating insights across domains</span>**
+
+June 5th, 2:00 PM - 5:30 PM
+Athena Hall, Rhodes Palace Hotel
+Rhodes Island, Greece
 
 Welcome to the website of the special **<span style="color:#2B547E">electroencephalography (EEG) workshop</span>** taking place on **5 June** at **ICASSP 2023 (4-9 June, Rhodes Island, Greece)**. This first edition of workshops at ICASSP is aimed at attracting and including a wider audience of both students and professionals and enriching the conference. In the EEG workshop, we (KU Leuven, Queen Mary University of London and Inria) are joining forces to bring together leading speakers in the fascinating field of EEG processing, and to create a meeting point at the crossroads between medicine and signal processing. In this workshop, we invite all ICASSP participants to get interested in brain signals. Topics of discussion will focus on recent advances and overarching challenges of the field.
 
