@@ -4,7 +4,6 @@ title: EEG workshop
 description: ICASSP 2023 Satellite Workshop
 Athena Hall, Rhodes Palace Hotel
 Rhodes Island, Greece
-
 background: /assets/theme/images/header.png
 permalink: /
 ---
