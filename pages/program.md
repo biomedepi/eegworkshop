@@ -17,18 +17,22 @@ permalink: /program/
 
 Some leaders in the field of EEG processing will present their ongoing work in emerging fields in EEG processing.
 - 2:00 PM - 2:25 PM 
+    
     Elisabeth Heremans – KU Leuven, Leuven, Belgium, Dr. Huy Phan – Amazon Alexa, Seattle, United States of America
 
     *Automatic sleep staging: recent development, challenges and future directions*
 - 2:25 PM - 2:50 PM 
+    
     Prof. Alexandre Gramfort – Meta Reality Labs, Paris, France
 
     *Self-supervised machine learning for wearable EEG monitoring*
 - 2:50 PM - 3:15 PM 
+    
     Dr. Catarina da Silva Lourenço – University of Twente, Enschede, The Netherlands
 
     *Deep Learning for detection of epileptiform discharges in human EEG recordings*
-- 3:15 PM - 3:40 PM 
+- 3:15 PM - 3:40 PM
+    
     Dr. Samaneh Nasiri – Harvard University, Boston, United States of America 
 
     *Generalizability of machine learning models for electrophysiology*
