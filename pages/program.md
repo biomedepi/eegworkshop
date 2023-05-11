@@ -25,7 +25,7 @@ Some leaders in the field of EEG processing will present their ongoing work in e
     
     Prof. Alexandre Gramfort – Meta Reality Labs, Paris, France
 
-    *Self-supervised machine learning for wearable EEG monitoring*
+    *From self-supervised learning to data augmentation on EEG signals*
 - 2:50 PM - 3:15 PM 
     
     Dr. Catarina da Silva Lourenço – University of Twente, Enschede, The Netherlands
