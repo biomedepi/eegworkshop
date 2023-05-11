@@ -15,7 +15,7 @@ permalink: /program/
 
 ### **<span style="color:#2B547E">Invited talks</span>**
 
-Some leaders in the field of EEG processing will present their ongoing work in emerging fields in EEG processing.
+Some leaders in the field of EEG processing will present their ongoing work in emerging fields in EEG processing (chaired by Prof. Maarten De Vos and Dr. Huy Phan).
 - 2:00 PM - 2:25 PM 
     
     Elisabeth Heremans – KU Leuven, Leuven, Belgium, Dr. Huy Phan – Amazon Alexa, Seattle, United States of America
@@ -45,7 +45,7 @@ Some leaders in the field of EEG processing will present their ongoing work in e
 
 [//]: # A regular paper presentation session on EEG signal processing will be held. We are welcoming contributions, which should be submitted by February 24 via the main conference platform, and will be reviewed according to the conference standards ([scope]({{ '/scope/' | relative_url }}) and [call for papers]({{ '/call/' | relative_url }}) for more information). Upon acceptance, papers will be given the opportunity to present, and will be published at the IEEE Xplore Digital Library.
 
-The following papers will be presented:
+The following papers will be presented (chaired by Prof. Alexandre Gramfort and Nick Seeuws):
 - 4:00 PM - 4:15 PM *Decoding Auditory Attention from EEG Data using Cepstral Analysis*
    
    Emina Alickovic (Eriksholm Research Centre); Carlos Fransico Mendoza (Eriksholm Research Centre); Andrew Segar (Eriksholm Research Centre); Maria Sandsten (Lund University); Martin A Skoglund (Linköping University)*	
